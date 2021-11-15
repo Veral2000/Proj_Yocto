@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/veral/proj/Animal.cpp
+iostream
+-
+string
+-
+Animal.h
+/home/veral/proj/Animal.h
+
+/home/veral/proj/Animal.h
+

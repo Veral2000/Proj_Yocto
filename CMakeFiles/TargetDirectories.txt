@@ -1,0 +1,3 @@
+/home/veral/proj/CMakeFiles/rebuild_cache.dir
+/home/veral/proj/CMakeFiles/edit_cache.dir
+/home/veral/proj/CMakeFiles/gitapp.dir
