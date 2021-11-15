@@ -6,3 +6,4 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14")
 project (gitapp)
 
 add_executable(gitapp Animal.cpp)
+install(TARGETS gitapp RUNTIME DESTINATION bin)
