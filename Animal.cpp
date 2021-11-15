@@ -8,3 +8,4 @@ using namespace std;
 void Animal::mymethod() {
 	cout<<"Hello, from mymethod Animal.cpp" <<endl;
 }
+

@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/gitapp.dir/Animal.cpp.o CMakeFiles/gitapp.dir/main.cpp.o  -o gitapp 

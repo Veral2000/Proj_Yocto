@@ -3,6 +3,7 @@
 using namespace std;
 
 #include "Animal.h"
+#include "Dog.hpp"
 
 void Animal::printmethod() {
 	std::cout << "Hello Animals" <<endl;
@@ -10,21 +11,23 @@ void Animal::printmethod() {
 
 int main() {
 
-	//Dog doc;
+	Dog doc;
 	Animal cat;
 
-	cat.printmethod();
-
-	cat.mymethod();
-
-	//doc.name = "Sheru";
-	//doc.age = 3;
+	doc.name = "sheru";
+	doc.age = 3;
 
 	cat.name = "kitty";
 	cat.age = 2;
 
-	//std:cout << "Dog's name is " <<doc.name  <<"\n";
-	//std:cout << "Dog's age is " <<doc.age   <<"\n";
+	doc.dogmethod();
+
+	cat.mymethod();
+
+	cout << "Dog's name is " <<doc.name  <<"\n";
+	cout << "Dog's age is " <<doc.age   <<"\n";
+
+	doc.printmethod();
 
 	cout << "Cat's name is " << cat.name << " " <<"\n";
 	cout << "Cat's age is " << cat.age <<"\n";

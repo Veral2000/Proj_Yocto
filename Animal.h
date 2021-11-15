@@ -1,3 +1,7 @@
+#include <iostream>
+#include <string.h>
+using namespace std;
+
 #pragma once
 class Animal
 {
