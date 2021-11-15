@@ -1,3 +1,7 @@
+/home/veral/proj/CMakeFiles/install/strip.dir
+/home/veral/proj/CMakeFiles/install/local.dir
+/home/veral/proj/CMakeFiles/install.dir
+/home/veral/proj/CMakeFiles/list_install_components.dir
 /home/veral/proj/CMakeFiles/rebuild_cache.dir
 /home/veral/proj/CMakeFiles/edit_cache.dir
 /home/veral/proj/CMakeFiles/gitapp.dir

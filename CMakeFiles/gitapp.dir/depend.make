@@ -4,3 +4,6 @@
 CMakeFiles/gitapp.dir/Animal.cpp.o: Animal.cpp
 CMakeFiles/gitapp.dir/Animal.cpp.o: Animal.h
 
+CMakeFiles/gitapp.dir/main.cpp.o: Animal.h
+CMakeFiles/gitapp.dir/main.cpp.o: main.cpp
+

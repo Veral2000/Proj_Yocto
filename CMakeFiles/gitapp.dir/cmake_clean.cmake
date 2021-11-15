@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/gitapp.dir/Animal.cpp.o"
+  "CMakeFiles/gitapp.dir/main.cpp.o"
   "gitapp"
   "gitapp.pdb"
 )

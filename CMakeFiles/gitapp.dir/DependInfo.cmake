@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/veral/proj/Animal.cpp" "/home/veral/proj/CMakeFiles/gitapp.dir/Animal.cpp.o"
+  "/home/veral/proj/main.cpp" "/home/veral/proj/CMakeFiles/gitapp.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
